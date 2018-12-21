@@ -1,10 +1,1 @@
-<a href="https://clashofclans.com/blog/release-notes/december-2018-update-patch-notes.html" class="button">Patch Notes</a>
-a.button {
-    -webkit-appearance: button;
-    -moz-appearance: button;
-    appearance: button;
-
-    text-decoration: none;
-    color: red;
-}
-GEGE
+https://clashofclans.com/blog/release-notes/december-2018-update-patch-notes.html
